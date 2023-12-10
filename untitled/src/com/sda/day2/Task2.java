@@ -1,7 +1,8 @@
 package com.sda.day2;
 
+import static com.sda.day2.StringValidator.isValid;
+
 public class Task2 {
-    import com.example.utils.StringValidator;
     public static void main(String[] args) {
         String input = "programowanie";
         String prefix = "pro";

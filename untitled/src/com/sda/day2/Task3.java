@@ -1,7 +1,7 @@
 package com.sda.day2;
 
 public class Task3 {
-import com.example.utils.StringValidator;
+
     public static void main(String[] args) {
         String input = "Ala ma kota";
         String word = "ma";

@@ -3,7 +3,6 @@ package com.sda.day2;
 import java.nio.channels.FileLock;
 
 public class Task1 {
-    import com.example.utils.StringValidator;
     private static final char DEFAULT_CHAR = '\u0000';
 
     public static void main(String[] args) {
