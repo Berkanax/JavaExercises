@@ -43,4 +43,3 @@ public class Task6 {
         } while(minMultiplicand <= maxMultiplicand);*/
     }
 }
-}

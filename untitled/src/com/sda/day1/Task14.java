@@ -1,5 +1,7 @@
 package com.sda.day1;
 
+import java.util.Scanner;
+
 public class Task14 {
     private static Scanner input;
     private static final double DEFAULT_AMOUNT_MIN = 1_000;

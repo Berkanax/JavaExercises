@@ -1,5 +1,8 @@
 package com.sda.day1;
 
+import java.util.Scanner;
+import java.util.regex.Pattern;
+
 public class Task7 {
     private static final String STOP_DECISION = "Stop";
 
@@ -58,5 +61,4 @@ public class Task7 {
         }
         return result;
     }
-}
 }

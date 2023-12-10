@@ -1,5 +1,7 @@
 package com.sda.day1;
 
+import java.util.Scanner;
+
 public class Task4 {
     private static final double BMI_MIN_RANGE = 18.5;
     private static final double BMI_MAX_RANGE = 24.9;
